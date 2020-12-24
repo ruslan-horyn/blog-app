@@ -1,0 +1,27 @@
+.contact__messege {
+    margin-bottom: 15px;
+}
+.contact__text {
+    display: block;
+    padding: 5px;
+    font-size: 16px;
+    width: 100%;
+    min-height: 200px;
+    margin-bottom: 15px;
+  
+}
+
+.contact__button {
+    display: block;
+    border: 2px solid black;
+    margin-left: auto;
+    padding: .5rem 1rem;
+    background-color: #ffffff;
+    transition: .3s ease-in-out;
+}
+
+.contact__button:hover {
+    color: #ffffff;
+    background-color: #000;
+}
+
